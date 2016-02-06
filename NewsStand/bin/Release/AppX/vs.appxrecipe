@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELLOPTIPLEX780</Machine>
+    <WindowsUser>AmmarAlam</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d1cb35e3-a53c-4653-9795-0bae21b37077</PackageIdentityName>
+    <IntermediateOutputPath>F:\E-Project Windows Store Apps\NewsStand\NewsStand\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2DF91FDA8F575821C24ECDFEF84783F1207EA4E0EDF535BC1BCD724AE3839097</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d1cb35e3-a53c-4653-9795-0bae21b37077_1.0.0.0_neutral__p3kxz1xg3msnp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d1cb35e3-a53c-4653-9795-0bae21b37077_p3kxz1xg3msnp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d1cb35e3-a53c-4653-9795-0bae21b37077</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AmmarAlam</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-05T13:22:57.139</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\bin\Release\NewsStand.exe">
+      <PackagePath>NewsStand.exe</PackagePath>
+      <Modified>2016-02-06T05:47:44.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\Assets\news.png">
+      <PackagePath>Assets\news.png</PackagePath>
+      <Modified>2016-02-05T12:48:17.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T06:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T06:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T06:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\bin\Release\NewsStand.xr.xml">
+      <PackagePath>NewsStand.xr.xml</PackagePath>
+      <Modified>2016-02-06T05:47:44.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-05T10:54:25.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-02-06T05:47:44.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\E-Project Windows Store Apps\NewsStand\NewsStand\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-05T13:22:56.931</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

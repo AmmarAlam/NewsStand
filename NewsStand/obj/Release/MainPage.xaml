@@ -17,13 +17,16 @@
             <TextBlock Text="Top Stories" FontSize="20" FontWeight="SemiBold" Foreground="#7f7f7f" Margin="40,20,0,0"/>
             <Rectangle Fill="Gray" Height="300" Width="650" HorizontalAlignment="Left" Margin="40,20,0,0"/>   
         </StackPanel>
-
-        <StackPanel Margin="0,500,0,0">
+        
+        <StackPanel Margin="0,500,0,0">        
             <TextBlock Text="Technology" FontWeight="SemiBold" FontSize="20" Margin="40,0,-3,0" Foreground="#7f7f7f"/>
             <Rectangle Fill="Gray" Width="200" Height="200" HorizontalAlignment="Left" Margin="40,20,0,0"/>
             <Rectangle Fill="Gray" Width="200" Height="200" HorizontalAlignment="Left" Margin="300,-200,0,0"/>
 
         </StackPanel>
-        
+
+
+
     </Grid>
 </Page>
+
